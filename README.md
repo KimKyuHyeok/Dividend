@@ -9,3 +9,12 @@
 * 스크래핑으로 배당금 데이터 가져오기
 * 서비스 제공을 위한 API 개발하기
 * 서버 부하를 줄이기 위한 캐시 서버 구성하기
+
+---
+## 프로젝트 환경
+* Java 11
+* Gradle 7.3.1
+* IntelliJ IDEA
+* Spring Boot
+* h2 database
+* jsoup
